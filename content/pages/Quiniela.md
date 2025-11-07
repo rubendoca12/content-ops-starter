@@ -18,6 +18,9 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+    styles:
+      text:
+        textAlign: center
 slug: Quiniela
 isDraft: false
 seo:
