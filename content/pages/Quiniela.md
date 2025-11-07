@@ -9,20 +9,7 @@ sections:
       color: text-dark
     subtitle: Section with a form subtitle
     text: >
-      ```
-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-
-      ```
-
-
-      https\://script.google.com/macros/s/AKfycbzfzPYaPhAOLxg\_8KIVdnTDzU0-ATfaFssFPFs4h5wyn\_7hskj3N9NkPc2\_TefYYE8ZSg/exec?ver=formulario
+      https://script.google.com/macros/s/AKfycbzfzPYaPhAOLxg\_8KIVdnTDzU0-ATfaFssFPFs4h5wyn\_7hskj3N9NkPc2\_TefYYE8ZSg/exec?ver=formulario](https://script.google.com/macros/s/AKfycbzfzPYaPhAOLxg_8KIVdnTDzU0-ATfaFssFPFs4h5wyn_7hskj3N9NkPc2_TefYYE8ZSg/exec?ver=formulario)
     actions: []
     badge:
       type: Badge
