@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Quiniela
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
