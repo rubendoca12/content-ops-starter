@@ -9,9 +9,11 @@ sections:
       color: text-dark
     subtitle: Section with a form subtitle
     text: >+
-      h[ttps://script.google.com/macros/s/AKfycbzfzPYaPhAOLxg\_8KIVdnTDzU0-ATfaFssFPFs4h5wyn\_7hskj3N9NkPc2\_TefYYE8ZSg/exec?ver=formulario](https://script.google.com/macros/s/AKfycbzfzPYaPhAOLxg_8KIVdnTDzU0-ATfaFssFPFs4h5wyn_7hskj3N9NkPc2_TefYYE8ZSg/exec?ver=formulario)
+      ```
 
+      https://script.google.com/macros/s/AKfycbzfzPYaPhAOLxg_8KIVdnTDzU0-ATfaFssFPFs4h5wyn_7hskj3N9NkPc2_TefYYE8ZSg/exec?ver=formulario
 
+      ```
 
     actions: []
     badge:
